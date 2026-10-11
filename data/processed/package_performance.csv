@@ -1,0 +1,19 @@
+PackageID,PackageName,Bookings,Revenue,Profit,Margin_%,Category,DurationDays,BasePriceUSD
+PK12,Mara Great Migration Luxury Camp,992,17106935.375,6323336.655,37.0,Luxury,5,4800
+PK13,Serengeti Migration Fly-In,746,16798472.75,6130124.5475,36.5,Luxury,6,6200
+PK17,Ultimate East Africa Honeymoon,393,13976124.0,4834052.0975,34.6,Luxury,12,9800
+PK18,Samburu & Laikipia Private Conservancy,469,10131231.0,4002642.3925,39.5,Luxury,5,5200
+PK16,Rwanda Gorillas & Golden Monkeys,590,9748751.625,2728304.37875,28.0,Luxury,3,4600
+PK14,Ngorongoro Crater Lodge Escape,614,9713062.5,3502847.29375,36.1,Luxury,4,4100
+PK15,Bwindi Gorilla Trek Premium,594,8576179.5,2650985.5925,30.9,Luxury,4,3900
+PK09,Serengeti & Ngorongoro Explorer,840,7924219.25,2542918.39,32.1,Mid-Range,6,2600
+PK07,Kenya Big Five Circuit,804,6659673.0,2274062.66625,34.1,Mid-Range,7,2350
+PK11,Kenya–Tanzania Cross-Border,414,5890000.5,1921492.02375,32.6,Mid-Range,10,3900
+PK06,Classic Maasai Mara Lodge Safari,1259,5702131.75,1967084.6275,34.5,Mid-Range,4,1250
+PK08,Samburu Special Five,519,2085371.75,706597.46,33.9,Mid-Range,4,1180
+PK10,Tarangire Elephant Trails,535,1732918.375,572183.9675,33.0,Mid-Range,3,890
+PK01,Mara Express Camping,1114,1669708.0,577417.5025,34.6,Budget,3,420
+PK05,Northern Tanzania Group Camping,574,1607685.875,525310.28,32.7,Budget,5,780
+PK03,Amboseli Kilimanjaro Views Camping,780,1496162.75,513726.36875,34.3,Budget,4,540
+PK02,Nakuru & Naivasha Budget Trail,818,1101910.375,381423.1,34.6,Budget,3,380
+PK04,Tsavo Red Elephants Road Trip,523,932976.75,313059.66,33.6,Budget,4,500

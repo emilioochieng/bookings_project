@@ -1,0 +1,4 @@
+PackageID,PackageName,Bookings,Revenue,Profit,Margin_%,Category,DurationDays,BasePriceUSD
+PK12,Mara Great Migration Luxury Camp,992,17106935.375,6323336.655,37.0,Luxury,5,4800
+PK13,Serengeti Migration Fly-In,746,16798472.75,6130124.5475,36.5,Luxury,6,6200
+PK17,Ultimate East Africa Honeymoon,393,13976124.0,4834052.0975,34.6,Luxury,12,9800
